@@ -1,0 +1,15 @@
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\bin\Debug\net6.0\1_gun.exe
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\bin\Debug\net6.0\1_gun.deps.json
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\bin\Debug\net6.0\1_gun.runtimeconfig.json
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\bin\Debug\net6.0\1_gun.dll
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\bin\Debug\net6.0\1_gun.pdb
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.csproj.AssemblyReference.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.AssemblyInfoInputs.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.AssemblyInfo.cs
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.csproj.CoreCompileInputs.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.dll
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\refint\1_gun.dll
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.pdb
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\1_gun.genruntimeconfig.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# console\1.gün\1_gun\1_gun\obj\Debug\net6.0\ref\1_gun.dll
